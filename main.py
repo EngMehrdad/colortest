@@ -1,6 +1,6 @@
 from tkinter import *
 from tkinter import ttk
-#git testgit testgit test
+
 root = Tk()
 root.geometry("350x830")
 root.minsize(350, 830)
